@@ -1,6 +1,7 @@
 from django.urls import path
-from .getAuthCode import tiktok_callback
+from .views import get_order_list_view, get_order_detail_view
 
 urlpatterns = [
-    path('callback/', tiktok_callback, name='tiktok_callback'),
+    path('getorderlist', get_order_list_view),
+    path('getorderdetail', get_order_detail_view),
 ]
