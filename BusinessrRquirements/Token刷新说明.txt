@@ -1,0 +1,7 @@
+NGROK运行起来后,在运行起来的窗口内输入以下命令:
+ngrok config add-authtoken 2uxUVa60V9OBYnbdgLhV6KOT89l_KpGiyTsQp9R3KfCj7kpX
+ngrok http --url=prompt-pumped-kangaroo.ngrok-free.app 80
+
+本地监听端口改为80:py manage.py runserver 0.0.0.0:80
+
+在根目录运行PYTHON脚本命令是:py Tiktok_api/Auth/getAuthCode_script.py --region ES

@@ -1,0 +1,92 @@
+[
+  {
+    "sku": "1729445880229892043",
+    "sku_name": "Gris, EU41-42",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/c127b76419094b0da4ced2aaf5a53deb~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 1,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729446610165927883",
+    "sku_name": "Predeterminado",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/e21c77f704d94fa6a1450bf0b479327f~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 17,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729448439371829195",
+    "sku_name": "gris oscuro",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/d7b95a45a84147bca1febdbc97dd46c1~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 1,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729448444140097483",
+    "sku_name": "dorado",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/6b60498c416c4fbeb293aa80f7106747~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 3,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729447113754382283",
+    "sku_name": "verde aguacate（set de 3 piezas）",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/f3f61dcab2004c0e88c56f08f95b41a5~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 15,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729447127600828363",
+    "sku_name": "Juego de 4 piezas lila",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/01b268e043bd4882874d7a5fb4c9fd9e~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 7,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729447100450901963",
+    "sku_name": "verde(juego de 3)",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/acd153b7aa394af8a0822170495de773~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 2,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729448440490987467",
+    "sku_name": "blanco arroz",
+    "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/9214a139cda9483a945bbdd9f56b4611~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 2,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729448443557351371",
+    "sku_name": "Dorado rosa",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/45f26e906f454bf8bf6c332ff966e1a3~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 2,
+    "return_orders": 0,
+    "reasons": []
+  },
+  {
+    "sku": "1729447100450967499",
+    "sku_name": "color naranja(juego de 3)",
+    "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b3914a5b94514d1f975ef043834ac313~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+    "return_rate": 0.0,
+    "total_orders": 1,
+    "return_orders": 0,
+    "reasons": []
+  }
+]

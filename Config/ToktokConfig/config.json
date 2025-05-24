@@ -1,0 +1,15 @@
+{
+  "TikTok": {
+    "AppKey": "6fne36nocfqpj",
+    "AppSecret": "2832b9ab4ef88f3860a6cf25368f4a9b298112aa",
+    "RedirectUri": "https://prompt-pumped-kangaroo.ngrok-free.app/api/TikTok/callback",
+    "Region": "ES",
+    "shopId": "7495998148249553867",
+    "shopCipher": "GCP_X9srZwAAAADkZQC-Q4X3h7sOzfh7CSxV"
+  },
+  "Shein": {
+    "AppKey": "13783147CC8028B36AA02F1F18DB3",
+    "AppSecret": "2832b9ab4ef88f3860a6cf25368f4a9b298112aa",
+    "RedirectUri": "https://prompt-pumped-kangaroo.ngrok-free.app/api/Shein/callback"
+  }
+}
