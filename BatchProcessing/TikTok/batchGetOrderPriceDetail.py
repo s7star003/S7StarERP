@@ -7,7 +7,7 @@ from Tiktok_api.Orders.getPriceDetail import get_price_detail
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORDERS_FILE = os.path.join(PROJECT_ROOT, "Datas", "TiktokDatas", "tiktok_orders.json")
-OUTPUT_FILE = os.path.join(PROJECT_ROOT, "MultiplatformDataDashboardDataSource", "Tiktok", "OrdersPriceDetail.json")
+OUTPUT_FILE = os.path.join(PROJECT_ROOT, "Datas", "TiktokDatas", "OrdersPriceDetail.json")
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
 def batch_get_order_price_detail():
