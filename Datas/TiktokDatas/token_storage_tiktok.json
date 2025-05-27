@@ -1,27 +1,27 @@
 {
-  "access_token": "GCP_PI0m9gAAAAAaley5O67vWqyc8YAGGW5UBkCOom7FuacxDzzWPN_uQu7_mWsEfeD2PA3JioihFqe-3cWELYYmf-vrmkOTabLGwmHhtvAZCXZ1f0-UExZt384bMaQT5tpSnyMkWULHO7fgw8Y2rojg-YhJ5rhpKAYB",
-  "access_token_expire_in": 1748708482,
-  "refresh_token": "GCP_0yaEVwAAAACQNEwqfZ396z0bB0Echm0bYmlhIzfj9mNM_UACAvz-om0Z0_0sq8patmoHem3cl2c",
+  "access_token": "GCP_FuQ0vQAAAAAaley5O67vWqyc8YAGGW5UBkCOom7FuacxDzzWPN_uQu7_mWsEfeD2PA3JioihFqe-3cWELYYmf-vrmkOTabLGWSFIdnQaOwm95vajaxs5RPuBuDavteN0IQOgFJYaZcLw-M26k5Hsvv2ehUi_AoeC",
+  "access_token_expire_in": 1748937002,
+  "refresh_token": "GCP_gcolegAAAACQNEwqfZ396z0bB0Echm0bIDF4FfguF1aFS0nkFSv1fSjOINUgO0tOmr75wC2aIUA",
   "refresh_token_expire_in": 4896792224,
   "open_id": "uN47hwAAAABA-lkfnzajr5x-RaoiIXFSu4pnmNM5cLFKbL6dx65EMQ",
   "seller_name": "Siete Star Oficial",
   "seller_base_region": "ES",
   "user_type": 0,
   "granted_scopes": [
-    "seller.fulfillment.basic",
-    "seller.product.basic",
-    "seller.logistics",
-    "seller.finance.info",
-    "serller.product.optimize",
-    "seller.order.info",
+    "seller.global_product.delete",
     "seller.global_product.info",
-    "seller.delivery.status.write",
+    "seller.order.info",
+    "seller.product.delete",
+    "serller.product.optimize",
     "seller.global_product.category.info",
-    "seller.global_product.write",
+    "seller.logistics",
     "seller.return_refund.basic",
     "seller.authorization.info",
-    "seller.global_product.delete",
-    "seller.product.delete"
+    "seller.delivery.status.write",
+    "seller.fulfillment.basic",
+    "seller.finance.info",
+    "seller.product.basic",
+    "seller.global_product.write"
   ],
-  "obtained_at": 1748103682
+  "obtained_at": 1748332205
 }
