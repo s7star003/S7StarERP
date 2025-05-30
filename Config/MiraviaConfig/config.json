@@ -1,0 +1,7 @@
+{
+  "Miravia": {
+    "AppKey": "510994",
+    "OauthSignin": "https://open.miravia.com/apps/oauth/authorize?response_type=code&force_auth=true&client_id=510994&redirect_uri=https://prompt-pumped-kangaroo.ngrok-free.app/api/Miravia/callback",
+    "AppSecret": "nVNE8fc6d0MA6SJHs0s9EvHzx41XdxR3"
+  }
+}

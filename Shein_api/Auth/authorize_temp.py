@@ -5,10 +5,18 @@ import base64
 import time
 from pathlib import Path
 import json
+from drf_yasg.utils import swagger_auto_schema
+import os
 
+@swagger_auto_schema(
+    method="get",
+    operation_summary="SHEIN授权跳转",
+    operation_description="跳转到SHEIN授权页面，获取临时token。",
+    responses={302: '重定向到SHEIN授权页面'}
+)
 @api_view(["GET"])
 def authorizate_temp(request):
-    config_path = Path(__file__).parent.parent / 'Datas' / 'config.json'
+    config_path = Path(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))) / 'Config' / 'SheinConfig' / 'config.json'
     with open(config_path, 'r', encoding='utf-8') as f:
         config = json.load(f)["Shein"]
     auth_url = "https://openapi-sem.sheincorp.com/#/empower"

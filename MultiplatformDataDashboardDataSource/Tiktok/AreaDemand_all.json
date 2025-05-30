@@ -1,86 +1,84 @@
 [
   {
     "area": "Madrid",
-    "sales": 264,
+    "sales": 133,
+    "sales_amount": 6950.27,
     "top3_sku": [
       {
         "sku": "1729447084427153355",
         "sku_name": "negro",
         "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/a9e5d6fc7e7f43969799681f83e7e193~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 9
+        "sales": 7
       },
       {
         "sku": "1729447084427218891",
         "sku_name": "verde aguacate",
         "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/d36502496e794756a0e1e9ed7e97719a~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 9
+        "sales": 6
       },
       {
-        "sku": "1729468124032962507",
-        "sku_name": "ROSA, 28",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b5b9ef263a80433585a28a35b102fd57~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 8
+        "sku": "1729445880643293131",
+        "sku_name": "Rojo oscuro",
+        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/fae3e825f2c54bca96f7a47e464e129a~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 4
       }
     ]
   },
   {
     "area": "Cataluña",
-    "sales": 223,
+    "sales": 99,
+    "sales_amount": 6293.62,
     "top3_sku": [
+      {
+        "sku": "1729447084427087819",
+        "sku_name": "color chocolate",
+        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/35889d7d428c448e8951ad9070a72163~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 4
+      },
       {
         "sku": "1729468124032962507",
         "sku_name": "ROSA, 28",
         "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b5b9ef263a80433585a28a35b102fd57~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 6
+        "sales": 4
       },
       {
-        "sku": "1729468125939404747",
-        "sku_name": "rojo, 20in ",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/8cf7ba3b9794433a91335892a57f1006~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 5
-      },
-      {
-        "sku": "1729468124032896971",
-        "sku_name": "BLANCO, 28",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b132d9fd62d54d4b9581ccaf839d898e~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 5
+        "sku": "1729448450379780043",
+        "sku_name": "negro",
+        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/e1455eca94ba4f4a886d8508ee47ec47~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 3
       }
     ]
   },
   {
     "area": "Andalucía",
-    "sales": 151,
+    "sales": 66,
+    "sales_amount": 3336.12,
     "top3_sku": [
+      {
+        "sku": "1729468989281570763",
+        "sku_name": "Verde, 24in",
+        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/2e98b5cab9ce4d65934abc8119788e0c~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 3
+      },
       {
         "sku": "1729468125939404747",
         "sku_name": "rojo, 20in ",
         "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/8cf7ba3b9794433a91335892a57f1006~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 5
+        "sales": 2
       },
       {
-        "sku": "1729447113754382283",
-        "sku_name": "verde aguacate（set de 3 piezas）",
-        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/f3f61dcab2004c0e88c56f08f95b41a5~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 4
-      },
-      {
-        "sku": "1729468119720562635",
-        "sku_name": "CHOCO, 24",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/def9ba22892b40ed9f391e2b14a3aaa9~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 4
+        "sku": "1729468125939994571",
+        "sku_name": "Azul, 20in ",
+        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/bfcc7a224930427db88b0784c3ee88ed~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 2
       }
     ]
   },
   {
     "area": "Valencian",
-    "sales": 116,
+    "sales": 43,
+    "sales_amount": 2102.77,
     "top3_sku": [
-      {
-        "sku": "1729475241217006539",
-        "sku_name": "Oro rosa, 18 inch ",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/bbf117b2fb854b81831f8d4692fed674~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 4
-      },
       {
         "sku": "1729475241217137611",
         "sku_name": "Azul osculo, 18 inch ",
@@ -92,30 +90,37 @@
         "sku_name": "verde aguacate（set de 3 piezas）",
         "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/f3f61dcab2004c0e88c56f08f95b41a5~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
         "sales": 3
+      },
+      {
+        "sku": "1729466429242642379",
+        "sku_name": "Blanco",
+        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/e37365aedba7418ea122d0f6ff58eada~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 3
       }
     ]
   },
   {
-    "area": "Galicia",
-    "sales": 57,
+    "area": "Castilla y León",
+    "sales": 29,
+    "sales_amount": 1775.96,
     "top3_sku": [
       {
-        "sku": "1729447127600762827",
-        "sku_name": "Juego de 4 piezas rosa claro",
-        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/ad35284bce2e48ea88d07f0a4976a594~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 7
+        "sku": "1729447084427349963",
+        "sku_name": "amarillo",
+        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/c753154d08054b76b2f5c9ea316cf6ce~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 2
       },
       {
-        "sku": "1729447084427087819",
-        "sku_name": "color chocolate",
-        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/35889d7d428c448e8951ad9070a72163~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 4
+        "sku": "1729449272035941323",
+        "sku_name": "Beige, 20 in ",
+        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/e62fa5730b914bb8b1ff906280d3001f~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 2
       },
       {
-        "sku": "1729448218613551051",
-        "sku_name": "azul",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/1186ae4a85654453b5532af1d88c04c6~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 4
+        "sku": "1729466429242642379",
+        "sku_name": "Blanco",
+        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/e37365aedba7418ea122d0f6ff58eada~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sales": 1
       }
     ]
   }

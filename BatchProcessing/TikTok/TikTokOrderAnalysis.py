@@ -27,6 +27,11 @@ FIELDS = [
     "sku_image"
 ]
 
+RETURN_STATUS = [
+    "CANCELLED", "RETURNED", "REFUNDED", "CANCELLED_AFTER_SHIPPING",
+    "RETURN_REQUESTED", "CANCELLED_BY_SELLER", "CANCELLED_BY_BUYER"
+]
+
 def extract_products(obj, products, context=None, all_candidates=None):
     """
     递归遍历obj，找到包含product_name的dict，合并上下文金额字段，加入products列表。
@@ -73,6 +78,12 @@ def analyze_orders():
         print(f"读取{INPUT_FILE}失败: {e}")
         return
 
+    all_status = set()
+    for order in orders:
+        for item in order.get("line_items", []):
+            all_status.add(str(item.get("display_status", "")).upper())
+    print("所有出现过的display_status：", all_status)
+
     result = {}
     for order in orders:
         payment = order.get("payment", {})
@@ -81,6 +92,7 @@ def analyze_orders():
         order_time = order.get("create_time")
         shipping_provider_name = order.get("shipping_provider_name", None)
         line_items = order.get("line_items", [])
+        order_status = str(order.get("status", "")).upper()
         for item in line_items:
             product_name = item.get("product_name", "未知商品")
             if not product_name:
@@ -88,7 +100,8 @@ def analyze_orders():
             sale_price = float(item.get("sale_price", 0))
             sku_name = item.get("sku_name", "未知SKU")
             sku_image = item.get("sku_image")
-            is_returned = (item.get("display_status", "").upper() in ["RETURNED", "REFUNDED"])
+            # 只用订单级别status判断退货
+            is_returned = order_status in RETURN_STATUS
             item_shipping_provider = item.get("shipping_provider_name", shipping_provider_name)
             # 初始化
             if product_name not in result:
@@ -147,6 +160,9 @@ def analyze_orders():
     analysis_list = []
     for product_name, data in result.items():
         return_rate = round((data["return_count"] / data["sell_count"] * 100) if data["sell_count"] else 0, 2)
+        is_returned = data["return_count"] > 0
+        profit_methods = {k: round(v,2) for k,v in data.get("profit_methods",{}).items()} if not is_returned else {}
+        profit_explain = data.get("profit_explain",{}) if not is_returned else {}
         analysis_list.append({
             "product_name": data["product_name"],
             "sku_image": data["sku_image"],
@@ -163,8 +179,9 @@ def analyze_orders():
             "last_sold_time": data["last_sold_time"],
             "return_count": data["return_count"],
             "return_rate": return_rate,
-            "profit_methods": {k: round(v,2) for k,v in data.get("profit_methods",{}).items()},
-            "profit_explain": data.get("profit_explain",{})
+            "is_returned": is_returned,
+            "profit_methods": profit_methods,
+            "profit_explain": profit_explain
         })
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(analysis_list, f, ensure_ascii=False, indent=2)

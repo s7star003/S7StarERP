@@ -1,5 +1,3 @@
-# 辅助函数可以写这里
-
 import time
 from urllib.parse import urlencode, quote
 
@@ -10,5 +8,5 @@ def generate_nonce():
     return str(int(time.time() * 1000))
 
 def build_query_string(params):
-    # 参数按字典序排序
-    return urlencode(sorted(params.items()), quote_via=quote)
+    # TikTok Shop 要求参数按字典序排序
+    return urlencode(sorted(params.items()), quote_via=quote) 

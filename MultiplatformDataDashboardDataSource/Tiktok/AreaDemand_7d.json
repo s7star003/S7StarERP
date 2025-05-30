@@ -1,86 +1,28 @@
 [
   {
-    "area": "Cataluña",
-    "sales": 10,
+    "area": "Castilla La Mancha",
+    "sales": 2,
+    "sales_amount": 99.52,
     "top3_sku": [
       {
-        "sku": "1729468124032962507",
-        "sku_name": "ROSA, 28",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b5b9ef263a80433585a28a35b102fd57~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 2
-      },
-      {
-        "sku": "1729468125939535819",
-        "sku_name": "rojo, 28in",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/8cf7ba3b9794433a91335892a57f1006~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sku": "1729468124032896971",
+        "sku_name": "BLANCO, 28",
+        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b132d9fd62d54d4b9581ccaf839d898e~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
         "sales": 1
       },
       {
-        "sku": "1729468124033028043",
-        "sku_name": "CHOCO, 28",
-        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/a1c302880aad4d63929f83c02935cc35~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      }
-    ]
-  },
-  {
-    "area": "Valencian",
-    "sales": 4,
-    "top3_sku": [
-      {
-        "sku": "1729468384410243019",
-        "sku_name": "Azul light",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/0b14815a944f479e9ffa223d92b28fb5~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 2
-      },
-      {
-        "sku": "1729443315074305995",
+        "sku": "1729447112906608587",
         "sku_name": "Blanco",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/75d460519371466187cab9136c8259f1~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      },
-      {
-        "sku": "1729474744005467083",
-        "sku_name": "Blanco, 26 inch",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/36e1436951cb4dbfbb80485038620625~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      }
-    ]
-  },
-  {
-    "area": "Castilla y León",
-    "sales": 3,
-    "top3_sku": [
-      {
-        "sku": "1729447113754382283",
-        "sku_name": "verde aguacate（set de 3 piezas）",
-        "image": "https://p16-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/f3f61dcab2004c0e88c56f08f95b41a5~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      },
-      {
-        "sku": "1729474744005336011",
-        "sku_name": "Negro, 30 inch",
-        "image": "https://p19-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/0afb23236437429a8aaae2ddcf214237~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      },
-      {
-        "sku": "1729487460772584395",
-        "sku_name": "azul zafiro, 28 in",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/9950f23744984092a67980cd1cd4e09b~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/e6ae8812863c4079811fd662d67d078d~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
         "sales": 1
       }
     ]
   },
   {
     "area": "Andalucía",
-    "sales": 3,
+    "sales": 2,
+    "sales_amount": 131.51,
     "top3_sku": [
-      {
-        "sku": "1729471367682953163",
-        "sku_name": "purpura, 24 in ",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/aada3dd469e34548ac56d698a4fcae7c~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      },
       {
         "sku": "1729468983417016267",
         "sku_name": "Rosa, 20 in cabina",
@@ -96,19 +38,14 @@
     ]
   },
   {
-    "area": "Madrid",
-    "sales": 2,
+    "area": "Castilla y León",
+    "sales": 1,
+    "sales_amount": 55.17,
     "top3_sku": [
       {
-        "sku": "1729479340765191115",
-        "sku_name": "Negro",
-        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/e97e24ce4f284475b44cc0de7b1c1f41~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
-        "sales": 1
-      },
-      {
-        "sku": "1729468124032962507",
-        "sku_name": "ROSA, 28",
-        "image": "https://p19-oec-eu-common-useast2a.ibyteimg.com/tos-useast2a-i-tulkllf4y5-euttp/b5b9ef263a80433585a28a35b102fd57~tplv-tulkllf4y5-origin-jpeg.jpeg?dr=11253&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
+        "sku": "1729487460772584395",
+        "sku_name": "azul zafiro, 28 in",
+        "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/9950f23744984092a67980cd1cd4e09b~tplv-t5fjg24jzw-origin-jpeg.jpeg?dr=11254&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=no1a&from=1413970683",
         "sales": 1
       }
     ]

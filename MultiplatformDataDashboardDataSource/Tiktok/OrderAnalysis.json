@@ -19,6 +19,7 @@
     "last_sold_time": 1737058557,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 12.92
     },
@@ -46,14 +47,11 @@
     ],
     "first_sold_time": 1739211390,
     "last_sold_time": 1746650489,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 416.55
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 6,
+    "return_rate": 33.33,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "7S STAR - Set de Maletas Expandibles con Material ABS + PC: Tamaños Variados (20in, 24in, 71.12cm) para Adaptarse a Diferentes Necesidades de Viaje, Construcción Robusta y un Diseño Atractivo que Combina la Función y la Estética",
@@ -66,22 +64,19 @@
     "max_sale_price": 0.0,
     "buyer_count": 3,
     "sku_list": [
-      "azul claro",
-      "gris oscuro"
+      "gris oscuro",
+      "azul claro"
     ],
     "shipping_provider_names": [
       "Correos"
     ],
     "first_sold_time": 1740172411,
     "last_sold_time": 1742559685,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 66.67,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "7S STAR: Set de Maletas ABS + PC, Elegancia y Durabilidad - Ruedas Giratorias de 360° para Mayor Manejo",
@@ -101,14 +96,11 @@
     ],
     "first_sold_time": 1740175338,
     "last_sold_time": 1740340586,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Set de 3 Maletas S7 STAR Expandibles 20in/24in/28in con Spinner 360°, Material PC+ABS Resistente a Impactos y Rayones, Colores Macaron Elegantes, Duraderas, Ligeras y Aprobadas por Aerolíneas, ¡Envío Gratis!",
@@ -121,13 +113,13 @@
     "max_sale_price": 133.79,
     "buyer_count": 43,
     "sku_list": [
+      "verde aguacate（set de 3 piezas）",
       "rosa（set de 3 piezas）",
       "azul claro（set de 3 piezas）",
       "gris claro（set de 3 piezas）",
-      "verde aguacate（set de 3 piezas）",
+      "color chocolate（set de 3 piezas）",
       "negro（set de 3 piezas）",
       "amarillo（set de 3 piezas）",
-      "color chocolate（set de 3 piezas）",
       "Blanco（set de 3 piezas）"
     ],
     "shipping_provider_names": [
@@ -136,14 +128,11 @@
     ],
     "first_sold_time": 1740180134,
     "last_sold_time": 1747504773,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 3981.3
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 20,
+    "return_rate": 38.46,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Set de 4 Maletas Expandibles S7 STAR ABS+PC con Ruedas Spinner 14in/20in/24in/28in, Colores Macaron, Resistente a Impactos, Ligero y Duradero, Acabado Antirrayaduras, Ideal para Viajes, ¡Aprobadas por Aerolíneas y Envío Gratis!",
@@ -157,11 +146,11 @@
     "buyer_count": 39,
     "sku_list": [
       "Juego de 4 piezas lila",
-      "Juego de 4 piezas negras",
-      "Juego de 4 piezas rosa claro",
+      "Juego de 4 piezas blancas",
       "Juego de 4 piezas azul claro",
       "Juego de 4 piezas amarillo claro",
-      "Juego de 4 piezas blancas"
+      "Juego de 4 piezas negras",
+      "Juego de 4 piezas rosa claro"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -169,14 +158,11 @@
     ],
     "first_sold_time": 1740184087,
     "last_sold_time": 1747763285,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 3607.09
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 30,
+    "return_rate": 62.5,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Juego de 3 Maletas de Viaje S7 STAR, 14in/20in/28in, Colores Sólidos Elegantes, Ruedas 360° Silenciosas, Material Resistente ABS+PC, Ligera y Duradera, Aprobadas por Aerolíneas, Ideal para Viajes de Negocios y Vacaciones, ¡Envío Gratis y Alta Calidad!",
@@ -189,22 +175,19 @@
     "max_sale_price": 0.0,
     "buyer_count": 3,
     "sku_list": [
-      "color naranja(juego de 3)",
-      "verde(juego de 3)"
+      "verde(juego de 3)",
+      "color naranja(juego de 3)"
     ],
     "shipping_provider_names": [
       "Correos"
     ],
     "first_sold_time": 1740215497,
     "last_sold_time": 1740433050,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "7S STAR - Set de 3 Maletas de Hojalata Expandibles con Material ABS + PC: Diseño Elegante, Función Expandible y Características de Durabilidad y Protección para una Elección Inigualable para los Amantes de Viajar",
@@ -225,14 +208,11 @@
     ],
     "first_sold_time": 1740216073,
     "last_sold_time": 1744070882,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 293.91
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "“¡Oferta Limitada y Flash! 7S STAR - Set de 3 Maletas ABS Ultra-Duraderas y Ligero en Negro, Tamaños 20/24/28 Pulgadas para Viajeros Avidos - Alta Calidad a Precio Irresistible, No te lo Pierdas!”",
@@ -246,22 +226,19 @@
     "buyer_count": 4,
     "sku_list": [
       "Rojo vivo",
-      "Dorado rosa",
-      "Negro"
+      "Negro",
+      "Dorado rosa"
     ],
     "shipping_provider_names": [
       "Correos"
     ],
     "first_sold_time": 1740218003,
     "last_sold_time": 1742930412,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 75.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Mochila Antirrobo para Portátil con Puerto USB – Resistente al Agua, Gran Capacidad, Ideal para Escuela, Oficina y Viajes – Compatible con Portátiles de 15,6” – Elegante, Segura y Práctica – ¡Envío Gratis y Regalo Perfecto!",
@@ -283,14 +260,11 @@
     ],
     "first_sold_time": 1740256864,
     "last_sold_time": 1744409165,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 50.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Juego de 3 Maletas Expandibles S7 STAR PC+ABS con Ruedas 360° Spinner, Colores Macaron, Resistente a Impactos, Ligero y Duradero, Acabado Texturizado Antirrayaduras, Aprobadas por Aerolíneas, ¡Envío Gratis y Alta Calidad!",
@@ -303,10 +277,10 @@
     "max_sale_price": 113.59,
     "buyer_count": 5,
     "sku_list": [
+      "blanco（juego de 3 piezas）",
       "azul claro（juego de 3 piezas）",
-      "lila（juego de 3 piezas）",
       "Oscuro（juego de 3 piezas）",
-      "blanco（juego de 3 piezas）"
+      "lila（juego de 3 piezas）"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -314,14 +288,11 @@
     ],
     "first_sold_time": 1740262005,
     "last_sold_time": 1746979932,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 304.05
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 40.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Maleta Expandible y Plegable con Ruedas Giratorias Universales – Bolsa de Viaje de Gran Capacidad, Ligera y Resistente, Ideal para Mudanzas, Viajes y Uso Diario, ¡Envío Gratis!",
@@ -344,14 +315,11 @@
     ],
     "first_sold_time": 1740724408,
     "last_sold_time": 1746695739,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 115.26
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 4,
+    "return_rate": 66.67,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Mochila de Viaje para Portátil S7 STAR con Puerto USB, Ideal para Negocios, Oficina y Viajes Familiares, Mochila de Mano para Equipaje de Mano, Diseño Moderno y Funcional, ¡Envío Gratis y Comodidad Todo el Día!",
@@ -364,10 +332,10 @@
     "max_sale_price": 24.79,
     "buyer_count": 16,
     "sku_list": [
+      "Azul lago",
       "Azul claro",
-      "Verde",
       "Blanco",
-      "Azul lago"
+      "Verde"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -375,14 +343,11 @@
     ],
     "first_sold_time": 1740725330,
     "last_sold_time": 1744993841,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 90.16
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 18.75,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Maleta de Mano Expandible S7 STAR de Cáscara Dura con Ruedas Giratorias y Cerradura, Maleta Plegable de 20 Pulgadas, Duradera, Ligera y Aprobada por Aerolíneas, Ideal para Viajes de Negocios y Vacaciones, ¡Envío Gratis!",
@@ -395,14 +360,14 @@
     "max_sale_price": 36.19,
     "buyer_count": 21,
     "sku_list": [
-      "Dorado",
-      "Negro",
-      "Rosa",
-      "Azul",
       "Gris oscuro",
-      "Azul claro",
       "Beige",
-      "Rojo oscuro"
+      "Rojo oscuro",
+      "Azul",
+      "Rosa",
+      "Azul claro",
+      "Negro",
+      "Dorado"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -412,6 +377,7 @@
     "last_sold_time": 1746992364,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 244.72
     },
@@ -430,14 +396,14 @@
     "max_sale_price": 39.79,
     "buyer_count": 115,
     "sku_list": [
+      "amarillo",
       "azul claro",
       "rosa",
-      "Blanco",
+      "color chocolate",
       "negro",
-      "amarillo",
       "verde aguacate",
       "gris claro",
-      "color chocolate"
+      "Blanco"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -445,14 +411,11 @@
     ],
     "first_sold_time": 1741080480,
     "last_sold_time": 1747856411,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 3877.54
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 51,
+    "return_rate": 30.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Maletas de 3 Piezas S7 STAR, Incluye Maletas de Alta Gama, Maletas Duras ABS, Resistencia a los Arañazos e Impacto, Maletas Rodantes Ligeras, Elegantes y Perfectas para Viajes de Negocios y Vacaciones, ¡Envío Gratis!",
@@ -465,10 +428,10 @@
     "max_sale_price": 129.59,
     "buyer_count": 17,
     "sku_list": [
-      "Negro",
-      "Lila",
       "Azul claro",
       "Rosa claro",
+      "Negro",
+      "Lila",
       "Blanco"
     ],
     "shipping_provider_names": [
@@ -477,14 +440,11 @@
     ],
     "first_sold_time": 1741201235,
     "last_sold_time": 1747730969,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 1943.71
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 10,
+    "return_rate": 52.63,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Mochila Antirrobo para Portátil con Puerto USB – Impermeable, Alta Capacidad y Diseño Elegante – Ideal para Oficina, Escuela y Viajes – Compatible con Portátiles de 15,6”",
@@ -504,14 +464,11 @@
     ],
     "first_sold_time": 1741384897,
     "last_sold_time": 1742851723,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 33.33,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Juego de 3 Maletas de Viaje ABS + PC, Cerradura Digital, 4 Ruedas Giratorias 360°, Mango Telescópico y Soporte para Taza y Paraguas – ¡Alta Calidad, ¡Envío Gratis y Oferta Exclusiva!",
@@ -524,13 +481,13 @@
     "max_sale_price": 117.59,
     "buyer_count": 16,
     "sku_list": [
+      "vino tinto(juego de 3)",
+      "Blanquecino(juego de 3)",
       "Verde juego de 3",
       "Titanio(juego de 3)",
+      "negro(juego de 3)",
       "azul hielo(juego de 3)",
-      "Blanquecino(juego de 3)",
-      "vino tinto(juego de 3)",
-      "gris oscuro(juego de 3)",
-      "negro(juego de 3)"
+      "gris oscuro(juego de 3)"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -538,14 +495,11 @@
     ],
     "first_sold_time": 1741462893,
     "last_sold_time": 1747161544,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 1812.87
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 6,
+    "return_rate": 33.33,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Mochila Antirrobo con Puerto USB y Resistente al Agua – Alta Capacidad, Ideal para Viajes, Oficina y Escuela – Compatible con Portátiles de 15,6” – ¡Envío Gratis y Diseño Moderno!",
@@ -568,6 +522,7 @@
     "last_sold_time": 1746689302,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 18.9
     },
@@ -595,14 +550,11 @@
     ],
     "first_sold_time": 1741638439,
     "last_sold_time": 1746986584,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 1120.62
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 9,
+    "return_rate": 36.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR   Equipaje Maleta expandible PC+ABS , para  carcasa rígida,  hacen que el equipaje sea más duradero, ligero y resistente a los impactos. Presenta un acabado texturizado para evitar arañazos, manteniendo las maletas bonitas.",
@@ -615,29 +567,29 @@
     "max_sale_price": 56.73,
     "buyer_count": 97,
     "sku_list": [
-      "rojo, 20in ",
-      "Negro, 24in",
-      "Azul, 20in ",
-      "blanco, 24in",
       "rojo, 28in",
+      "blanco, 20in ",
+      "blanco, 24in",
       "Verde, 28in",
-      "nuevo rosa, 28in",
-      "Gris, 24in",
-      "nuevo rosa, 24in",
-      "Azul, 24in",
+      "nuevo rosa, 20in ",
+      "rojo, 20in ",
       "Negro, 28in",
       "Verde, 24in",
-      "Azul, 28in",
-      "nuevo rosa, 20in ",
-      "blanco, 20in ",
-      "Gris, 28in",
-      "Verde, 20in ",
-      "Negro, 20in ",
-      "Dorado, 28in",
-      "rojo, 24in",
-      "Gris, 20in ",
+      "nuevo rosa, 28in",
+      "Azul, 20in ",
+      "blanco, 28in",
+      "nuevo rosa, 24in",
       "Dorado, 20in ",
-      "blanco, 28in"
+      "Gris, 20in ",
+      "Gris, 28in",
+      "rojo, 24in",
+      "Negro, 24in",
+      "Azul, 28in",
+      "Negro, 20in ",
+      "Azul, 24in",
+      "Gris, 24in",
+      "Dorado, 28in",
+      "Verde, 20in "
     ],
     "shipping_provider_names": [
       "Correos",
@@ -645,14 +597,11 @@
     ],
     "first_sold_time": 1741639094,
     "last_sold_time": 1747821245,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 4370.57
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 37,
+    "return_rate": 28.68,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "\"S7 STAR 2025 Nuevo Lanzamiento: Set de 3 Maletas de ABS y PC, Ligereza sin Compromiso, Espacios Amplios y Diseño de Vanguardia - Envío Gratis a Cualquier Rincón del Mundo\"",
@@ -665,12 +614,12 @@
     "max_sale_price": 117.89,
     "buyer_count": 15,
     "sku_list": [
-      "blanco arroz",
-      "rosa",
-      "negro",
-      "azul helado",
       "titanio",
-      "gris oscuro"
+      "gris oscuro",
+      "rosa",
+      "blanco arroz",
+      "azul helado",
+      "negro"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -678,14 +627,11 @@
     ],
     "first_sold_time": 1741639784,
     "last_sold_time": 1746803954,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 3182.08
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 24,
+    "return_rate": 64.86,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "\"S7 STAR 2025: Set 3 Maletas PP, Ultra Ligero, Gran Cap., Ruedas 360°, Resistente, Moda, Env. Gratis\"",
@@ -699,14 +645,14 @@
     "buyer_count": 23,
     "sku_list": [
       "Gris Oscuro",
-      "Negro",
       "azul púrpura claro",
-      "Rosa",
-      "Amaillo",
-      "Pasto Verde",
-      "Azul light",
       "Naranja",
-      "Azul "
+      "Azul light",
+      "Pasto Verde",
+      "Rosa",
+      "Negro",
+      "Azul ",
+      "Amaillo"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -714,14 +660,11 @@
     ],
     "first_sold_time": 1741640902,
     "last_sold_time": 1747902028,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 3160.44
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 17,
+    "return_rate": 53.12,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  28 pulgadas 19.9*11.5*28.7  Exquisito  de Equipaje de Viaje de PC: Equipaje de Mano Elegante - Equipaje de Mano Combinado con Maleta con Ruedas Giratorias, una Elección de Calidad Sobresaliente, equipaje premium, Maleta de Viaje de Moda,",
@@ -734,13 +677,13 @@
     "max_sale_price": 55.74,
     "buyer_count": 73,
     "sku_list": [
-      "NEGRO, 28",
       "AZUL, 28",
-      "ROSA, 28",
       "CHOCO, 28",
-      "BLANCO, 28",
       "Amarilio, 28",
-      "Verde, 28"
+      "Verde, 28",
+      "ROSA, 28",
+      "BLANCO, 28",
+      "NEGRO, 28"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -748,14 +691,11 @@
     ],
     "first_sold_time": 1741648167,
     "last_sold_time": 1747856294,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 2699.06
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 17,
+    "return_rate": 18.89,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  24 pulgadas 17.2*10.3*25.1  Exquisito  de Equipaje de Viaje de PC: Equipaje de Mano Elegante - Equipaje de Mano Combinado con Maleta con Ruedas Giratorias, una Elección de Calidad Sobresaliente, equipaje premium, Maleta de Viaje de Moda,",
@@ -768,13 +708,13 @@
     "max_sale_price": 49.17,
     "buyer_count": 63,
     "sku_list": [
-      "Verde, 24",
-      "Amarillo, 24",
-      "CHOCO, 24",
+      "ROSA, 24",
       "BLANCO, 24",
       "Azul, 24",
+      "Verde, 24",
+      "CHOCO, 24",
       "NEGRO, 24",
-      "ROSA, 24"
+      "Amarillo, 24"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -782,14 +722,11 @@
     ],
     "first_sold_time": 1741716362,
     "last_sold_time": 1747471333,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 2109.29
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 19,
+    "return_rate": 21.11,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "\"S7 STAR 2025:  Maletas PP es una elección perfecta Ultra Ligero, Gran Cap., Ruedas 360°, Resistente, Moda, Env. Gratis\"",
@@ -802,28 +739,28 @@
     "max_sale_price": 65.52,
     "buyer_count": 68,
     "sku_list": [
-      "Negro, 20 in",
-      "Naranja, 28 in",
-      "Naranja, 24 in ",
-      "Azul, 28 in",
-      "Azul, 20 in",
-      "Negro, 28 in",
-      "Azul Tiff, 24 in ",
-      "Verde, 28 in",
-      "Amarillo, 24 in ",
-      "Amarillo, 28 in",
-      "Negro, 24 in ",
-      "Rosa, 24 in ",
-      "Rosa, 28 in",
       "Verde, 24 in ",
       "Gris, 20 in",
+      "Rosa, 24 in ",
       "Gris, 28 in",
+      "Naranja, 20 in",
+      "Verde, 28 in",
+      "Naranja, 28 in",
+      "Negro, 20 in",
+      "Azul, 20 in",
+      "Azul Tiff, 20 in",
+      "Azul Tiff, 28 in",
+      "Amarillo, 24 in ",
+      "Rosa, 28 in",
+      "Amarillo, 28 in",
       "Amarillo, 20 in",
       "Azul, 24 in ",
+      "Negro, 28 in",
+      "Negro, 24 in ",
+      "Azul, 28 in",
+      "Azul Tiff, 24 in ",
+      "Naranja, 24 in ",
       "Verde, 20 in",
-      "Azul Tiff, 28 in",
-      "Naranja, 20 in",
-      "Azul Tiff, 20 in",
       "Rosa, 20 in"
     ],
     "shipping_provider_names": [
@@ -832,14 +769,11 @@
     ],
     "first_sold_time": 1741723204,
     "last_sold_time": 1747654285,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 3718.1
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 35,
+    "return_rate": 35.35,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Juego de 3 Maletas Expandibles S7 STAR ABS+PC con Ruedas 360° Spinner 20in/24in/28in, Resistente a Impactos, Acabado Texturizado Antirrayaduras, Ligera y Duradera, Ideal para Viajes, ¡Aprobada por Aerolíneas y Envío Gratis!",
@@ -852,22 +786,19 @@
     "max_sale_price": 143.99,
     "buyer_count": 3,
     "sku_list": [
-      "azul（set de 3 piezas）",
-      "oro rosa（set de 3 piezas）"
+      "oro rosa（set de 3 piezas）",
+      "azul（set de 3 piezas）"
     ],
     "shipping_provider_names": [
       "Correos"
     ],
     "first_sold_time": 1741777136,
     "last_sold_time": 1744362084,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 136.79
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 66.67,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Conjunto de Equipaje de Viaje Elegante de Material PC: Equipaje de Mano y Maleta con Ruedas Giratorias, Comienza un Viaje Sin Preocupaciones, Set de Equipaje de 3 Piezas que Incluye Equipaje Premium de 50.8/ 60.96/ 71.12 cm,  Viaje de Moda",
@@ -880,26 +811,23 @@
     "max_sale_price": 113.78,
     "buyer_count": 9,
     "sku_list": [
-      "Rosa",
       "Blanco Plateado",
-      "Azul",
+      "Azul claro ",
       "Verde claro",
-      "Rojo",
-      "Azul claro "
+      "Azul",
+      "Rosa",
+      "Rojo"
     ],
     "shipping_provider_names": [
       "CTT Express"
     ],
     "first_sold_time": 1741809575,
     "last_sold_time": 1747749650,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 930.07
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 30.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR equipaje  de PC, equipaje con ruedas giratorias, hermosa maleta de viaje, maleta de viaje de negocios, resistente a los arañazos, resistencia a los impactos, estuche de viaje ligero con ruedas, maleta de viaje de moda",
@@ -912,18 +840,18 @@
     "max_sale_price": 62.15,
     "buyer_count": 23,
     "sku_list": [
-      "Blanco, 24 in",
-      "Gris, 28 in",
-      "Rosa, 24 in",
-      "Ciolo celeste, 28 in",
-      "Negro, 24 in",
-      "Negro, 20 in cabina",
-      "Ciolo celeste, 20 in cabina",
       "Rosa, 28 in",
-      "Blanco, 20 in cabina",
-      "Blanco, 28 in",
+      "Ciolo celeste, 20 in cabina",
+      "Blanco, 24 in",
+      "Negro, 20 in cabina",
+      "Negro, 28 in",
+      "Rosa, 24 in",
+      "Negro, 24 in",
+      "Gris, 28 in",
       "Rosa, 20 in cabina",
-      "Negro, 28 in"
+      "Blanco, 28 in",
+      "Ciolo celeste, 28 in",
+      "Blanco, 20 in cabina"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -931,14 +859,11 @@
     ],
     "first_sold_time": 1741812852,
     "last_sold_time": 1748073686,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 774.73
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 8,
+    "return_rate": 26.67,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Conjunto de Equipaje de Viaje Elegante de Material PC: Equipaje de Mano y Maleta con Ruedas Incluye Equipaje Premium de 50.8/ 60.96/ 71.12 cm, Maletas de Viaje de Moda, Comienza un Viaje Sin Preocupaciones",
@@ -951,23 +876,23 @@
     "max_sale_price": 59.17,
     "buyer_count": 32,
     "sku_list": [
-      "Negro, 20 in",
-      "Blanco, 24 in",
-      "azul zafiro, 20 in",
-      "azul zafiro, 24 in",
-      "Rojo, 28 in",
-      "Azul, 24 in",
-      "Negro, 24 in",
       "Rojo, 24 in",
-      "azul zafiro, 28 in",
-      "Azul, 28 in",
-      "Verde light, 28 in",
-      "Rojo, 20 in",
+      "Negro, 20 in",
       "Rosa, 28 in",
-      "Rosa, 20 in",
-      "Azul, 20 in",
+      "Rojo, 20 in",
+      "Blanco, 24 in",
+      "Verde light, 28 in",
+      "Rojo, 28 in",
+      "azul zafiro, 28 in",
       "Negro, 28 in",
-      "Verde light, 24 in"
+      "Azul, 20 in",
+      "Azul, 24 in",
+      "azul zafiro, 20 in",
+      "Azul, 28 in",
+      "azul zafiro, 24 in",
+      "Verde light, 24 in",
+      "Negro, 24 in",
+      "Rosa, 20 in"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -975,14 +900,11 @@
     ],
     "first_sold_time": 1741883551,
     "last_sold_time": 1748040450,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 1058.15
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 6,
+    "return_rate": 15.79,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Maleta, Equipaje de Mano y Bolsa de Viaje Elegante, Equipaje de 50.8cm, Maletas de Viaje de Moda, Maleta de Viaje Hermosa, Maleta de Viaje de Negocios",
@@ -995,8 +917,8 @@
     "max_sale_price": 59.99,
     "buyer_count": 2,
     "sku_list": [
-      "gris, 28",
-      "azul, 20"
+      "azul, 20",
+      "gris, 28"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1006,6 +928,7 @@
     "last_sold_time": 1744305796,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 89.28
     },
@@ -1024,10 +947,10 @@
     "max_sale_price": 48.59,
     "buyer_count": 5,
     "sku_list": [
-      "Verde, 20 in ",
-      "Púrpura, 24 in ",
       "Rojo, 28 in",
-      "Púrpura, 20 in "
+      "Púrpura, 20 in ",
+      "Verde, 20 in ",
+      "Púrpura, 24 in "
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1035,14 +958,11 @@
     ],
     "first_sold_time": 1742058385,
     "last_sold_time": 1747130364,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 195.79
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 28.57,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR maletas de viaje  20\"/24\"/28\"de gran capacidad con bolsillo frontal.ampliar hasta un 30%. Maleta duradera de carcasa rígida de PC+ABS con ruedas giratorias dobles, diseño ligero y rodado fácil, cerradura TSA para viajes sin complicaciones.",
@@ -1055,13 +975,13 @@
     "max_sale_price": 60.95,
     "buyer_count": 19,
     "sku_list": [
-      "Oro, 28 in ",
-      "Gris, 20 in cabina",
-      "Azul, 24 in ",
-      "Negro, 28 in ",
       "Oro, 20 in cabina",
+      "Negro, 28 in ",
       "Gris, 24 in ",
-      "Azul, 28 in "
+      "Azul, 24 in ",
+      "Gris, 20 in cabina",
+      "Azul, 28 in ",
+      "Oro, 28 in "
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1069,14 +989,11 @@
     ],
     "first_sold_time": 1742243781,
     "last_sold_time": 1746224540,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 637.96
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 6,
+    "return_rate": 30.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Maleta ABS de 5 piezas S7 STAR LG60900, color rosa dorado nuevo. Tamaños 12/14/20/24/28 pulgadas. Elegante y resistente. Ideal para viajes. ¡No te la pierdas!",
@@ -1089,10 +1006,10 @@
     "max_sale_price": 159.69,
     "buyer_count": 15,
     "sku_list": [
-      "azul",
+      "oro champán",
       "blanco plateado",
       "oro rosa",
-      "oro champán"
+      "azul"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1100,14 +1017,11 @@
     ],
     "first_sold_time": 1742334582,
     "last_sold_time": 1746008912,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 2565.51
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 11,
+    "return_rate": 55.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  conjunto de equipaje de 3 piezas incluye equipaje de 50.8/ 60.96/ 71.12 cm, equipaje de mano de PC, equipaje con ruedas giratorias, maleta de viaje ligera, maleta de viaje de moda, maleta de viaje hermosa, maleta de viaje de negocios,",
@@ -1120,10 +1034,10 @@
     "max_sale_price": 128.16,
     "buyer_count": 5,
     "sku_list": [
-      "plateado, 20.24.28",
       "Cielo celeste, 20.24.28",
+      "Azul, 20.24.28",
       "Rosa, 20.24.28",
-      "Azul, 20.24.28"
+      "plateado, 20.24.28"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1131,14 +1045,11 @@
     ],
     "first_sold_time": 1742415616,
     "last_sold_time": 1745306324,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 545.23
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 33.33,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Bolsas de Viaje Plegables Grandes 60L-200L, Ligeras, Impermeables y Resistentes – Perfectas para Acampar, Gimnasio, Escapadas de Fin de Semana y Mudanzas, ¡Envío Gratis!",
@@ -1151,8 +1062,8 @@
     "max_sale_price": 0.0,
     "buyer_count": 2,
     "sku_list": [
-      "Negro, 60L（60*30*34CM）",
-      "Negro, 150L（90*40*48CM）"
+      "Negro, 150L（90*40*48CM）",
+      "Negro, 60L（60*30*34CM）"
     ],
     "shipping_provider_names": [
       "Correos"
@@ -1161,6 +1072,7 @@
     "last_sold_time": 1742894970,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 0.0
     },
@@ -1181,18 +1093,18 @@
     "sku_list": [
       "Blanco, 24 in",
       "Gris, 20 in ",
-      "Gris, 28 in",
-      "Negro, 20 in ",
-      "Azul, 20 in ",
-      "Gris, 24 in",
-      "Negro, 24 in",
-      "Azul, 24 in",
-      "Verde, 28 in",
       "Blanco, 20 in ",
+      "Verde, 28 in",
+      "Azul, 24 in",
       "Verde, 24 in",
+      "Negro, 20 in ",
       "Azul, 28 in",
       "Rosa, 20 in ",
-      "Blanco, 28 in"
+      "Gris, 28 in",
+      "Negro, 24 in",
+      "Blanco, 28 in",
+      "Azul, 20 in ",
+      "Gris, 24 in"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1200,14 +1112,11 @@
     ],
     "first_sold_time": 1742593687,
     "last_sold_time": 1746782204,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 1155.79
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 9,
+    "return_rate": 26.47,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  piezas de maletas de 20/24/28 pulgadas de material PC, resistente a los arañazos, resistente a los impactos, con un aspecto elegante, convirtiéndose fácilmente en el centro de atención durante el viaje.",
@@ -1220,23 +1129,23 @@
     "max_sale_price": 53.13,
     "buyer_count": 31,
     "sku_list": [
-      "purpura, 20 in ",
-      "Rosa, 28 in ",
       "Amarillo, 24 in ",
-      "purpura, 28 in ",
-      "Negro, 20 in ",
-      "Azul, 20 in ",
-      "purpura, 24 in ",
-      "Negro, 24 in ",
-      "Blanco, 20 in ",
-      "Blanco, 28 in ",
-      "Azul, 24 in ",
       "Amarillo, 20 in ",
-      "Rosa, 20 in ",
-      "Rosa, 24 in ",
+      "Blanco, 28 in ",
+      "Rosa, 28 in ",
       "Negro, 28 in ",
+      "Blanco, 20 in ",
+      "Azul, 24 in ",
+      "purpura, 20 in ",
+      "purpura, 28 in ",
+      "Negro, 24 in ",
+      "purpura, 24 in ",
+      "Rosa, 24 in ",
+      "Negro, 20 in ",
       "Azul, 28 in ",
-      "Blanco, 24 in "
+      "Rosa, 20 in ",
+      "Blanco, 24 in ",
+      "Azul, 20 in "
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1244,14 +1153,11 @@
     ],
     "first_sold_time": 1742641285,
     "last_sold_time": 1747589025,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 614.52
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 5,
+    "return_rate": 15.15,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Uni de 2 Maletas de Viaje Expandibles ABS con Ruedas 360° y Diseño Antirayaduras – Ligera, Duradera y Perfecta para Viajes Familiares – ¡Envío Gratis y Ofertas Exclusivani",
@@ -1264,8 +1170,8 @@
     "max_sale_price": 53.59,
     "buyer_count": 3,
     "sku_list": [
-      "Azul",
-      "Negro"
+      "Negro",
+      "Azul"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1273,14 +1179,11 @@
     ],
     "first_sold_time": 1742650518,
     "last_sold_time": 1744359708,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 152.73
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 60.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Set de 3 maletas incluye maletas premium de 20/24/28 pulgadas, rígidas ABS+PC, resistentes a arañazos e impactos, maletas de viaje ligeras con ruedas, maletas de viaje de moda, hermosas maletas de viaje, maletas de viaje para negocios",
@@ -1301,14 +1204,11 @@
     ],
     "first_sold_time": 1742669374,
     "last_sold_time": 1742894941,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 95.74
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 50.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Equipaje de maletas con ruedas negras, multi-tamaños, tirables y portátiles, prácticos y multifuncionales, comienza un viaje fácil",
@@ -1321,26 +1221,23 @@
     "max_sale_price": 33.49,
     "buyer_count": 16,
     "sku_list": [
+      "M",
       "S",
-      "L",
       "XL",
-      "M"
+      "L"
     ],
     "shipping_provider_names": [
+      "Correos Express",
       "Correos",
-      "CTT Express",
-      "Correos Express"
+      "CTT Express"
     ],
     "first_sold_time": 1742671459,
     "last_sold_time": 1746280153,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 116.03
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 17.65,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Una elección delicada para una vida de calidad! Bolsa de viaje de múltiples compartimentos, gran capacidad y resistente al agua, con un compartimento para zapatos independiente, agregando calidad a los negocios, viajes, escalada en montaña y ocio.",
@@ -1362,14 +1259,11 @@
     ],
     "first_sold_time": 1742671490,
     "last_sold_time": 1746476401,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 4.76,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR 2025: Set de 3 Maletas de Maletero para Negocios Premium con Abertura Frontal, Cuerpo de ABS, Ruedas Giroscópicas, Cierre Seguro, Expandibles, Ligero y Duradero, Oferta Especial con Envío Gratis",
@@ -1390,14 +1284,11 @@
     ],
     "first_sold_time": 1742671527,
     "last_sold_time": 1746526586,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 155.6
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 50.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR ¡Un Compañero Considerado para Viajes Convenientes! Mochila de Viaje Multifuncional, Almacena Zapatos y Ropa, con un Diseño Elegante para una Compañía Conveniente en el Camino",
@@ -1418,14 +1309,11 @@
     ],
     "first_sold_time": 1742671533,
     "last_sold_time": 1746267944,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 23.08,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  El Conjunto de Gran Capacidad 20in 24in 28in para Tu Alma Gemela de Viaje Conveniente,Resistentes a Arañazos, Resistentes a Impactos, con Ruedas Giratorias para Iniciar un Viaje de Negocios Fácil",
@@ -1445,14 +1333,11 @@
     ],
     "first_sold_time": 1742688321,
     "last_sold_time": 1742688321,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR El Conjunto de Gran Capacidad para Tu Alma Gemela de Viaje Conveniente! Set de 3 Piezas de Maletas de Material ABS de 20/24/28, Resistentes a Arañazos, Resistentes a Impactos, con Ruedas Giratorias para Iniciar un Viaje de Negocios Fácil",
@@ -1472,14 +1357,11 @@
     ],
     "first_sold_time": 1742688335,
     "last_sold_time": 1742688335,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR 7 piezas Bolsa de almacenamiento de viaje con bolsa de zapatos independiente, de gran capacidad y resistente al agua, para manejar deportes al aire libre, mudanzas y estudios en el extranjero de manera completa",
@@ -1492,12 +1374,12 @@
     "max_sale_price": 11.79,
     "buyer_count": 10,
     "sku_list": [
-      "Negro",
-      "Rosa",
-      "Azul",
       "Beige",
+      "Azul",
+      "Rosa",
+      "Verde",
       "Gris",
-      "Verde"
+      "Negro"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1507,6 +1389,7 @@
     "last_sold_time": 1746313344,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 43.85
     },
@@ -1534,6 +1417,7 @@
     "last_sold_time": 1742688537,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 0.0
     },
@@ -1561,6 +1445,7 @@
     "last_sold_time": 1742689847,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 0.0
     },
@@ -1579,8 +1464,8 @@
     "max_sale_price": 0.0,
     "buyer_count": 7,
     "sku_list": [
-      "Azul",
       "Rosa",
+      "Azul",
       "Verde"
     ],
     "shipping_provider_names": [
@@ -1589,14 +1474,11 @@
     ],
     "first_sold_time": 1742721124,
     "last_sold_time": 1746467859,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 42.86,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR 6 piezas: Bolsa de almacenamiento de viaje con bolsa de zapatos independiente, de gran capacidad y resistente al agua, para manejar deportes al aire libre, mudanzas y estudios en el extranjero de manera completa",
@@ -1609,9 +1491,9 @@
     "max_sale_price": 0.0,
     "buyer_count": 5,
     "sku_list": [
-      "Gris",
       "Rosa",
-      "Verde"
+      "Verde",
+      "Gris"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1619,14 +1501,11 @@
     ],
     "first_sold_time": 1742725401,
     "last_sold_time": 1743693025,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 0.0
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 20.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Mochila Antirrobo con Puerto USB y Resistencia al Agua – Ideal para Viajes, Escuela y Oficina – Compatible con Portátiles de 15,6” – ¡Regalo Perfecto y Envío Gratis!",
@@ -1648,6 +1527,7 @@
     "last_sold_time": 1743261646,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 0.0
     },
@@ -1666,10 +1546,10 @@
     "max_sale_price": 149.69,
     "buyer_count": 5,
     "sku_list": [
-      "verde",
       "Negro",
       "Blanco",
-      "Orange"
+      "Orange",
+      "verde"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1677,14 +1557,11 @@
     ],
     "first_sold_time": 1742851586,
     "last_sold_time": 1746701032,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 523.31
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 16.67,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "Equipajes Conjunto 3 Piezas S7 STAR, Maletas Blandas Expandibles Ligeras y Duraderas con Dobles Ruedas Giratorias (20in/24in/28in), Perfectas para Viajes de Negocios y Vacaciones, Aprobadas por Aerolíneas, ¡Envío Gratis y Alta Calidad!",
@@ -1707,14 +1584,11 @@
     ],
     "first_sold_time": 1742924137,
     "last_sold_time": 1743536106,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 274.83
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 33.33,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Un golpe programado en el círculo de viajes! Conjunto de 3 piezas de maletas de 20/24/28 pulgadas de material PC, resistente a los arañazos, convirtiéndose fácilmente en el centro de atención durante el viaje.",
@@ -1735,14 +1609,11 @@
     ],
     "first_sold_time": 1742943551,
     "last_sold_time": 1743779058,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 215.14
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 50.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Equipaje de Viaje Elegante de 20in 24in 28incon Material PP, la Integración Perfecta de Equipaje de Mano y Maleta con Ruedas Giratorias, Maleta de Viaje a la Moda, Maleta de Viaje Hermosa",
@@ -1756,8 +1627,8 @@
     "buyer_count": 3,
     "sku_list": [
       "Verde, 28 inch",
-      "Negro, 28 inch",
-      "Azul oscuro, 20 inch"
+      "Azul oscuro, 20 inch",
+      "Negro, 28 inch"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1765,14 +1636,11 @@
     ],
     "first_sold_time": 1743117721,
     "last_sold_time": 1746449896,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 108.42
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 2,
+    "return_rate": 50.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Maleta expandible ABS  con Spinner 20in 24in 28in Materiales ABS para la carcasa rígida,  equipaje sea más duradero, ligero y resistente a los impactos. Presenta un acabado texturizado para evitar arañazos, manteniendo las maletas bonitas.",
@@ -1786,10 +1654,10 @@
     "buyer_count": 5,
     "sku_list": [
       "Púrpura, 20 inch",
-      "Rosa, 24 inch",
+      "Rosa, 28 inch",
       "Negro, 20 inch",
-      "oro rosa, 20 inch",
-      "Rosa, 28 inch"
+      "Rosa, 24 inch",
+      "oro rosa, 20 inch"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1797,14 +1665,11 @@
     ],
     "first_sold_time": 1743117770,
     "last_sold_time": 1747235815,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 169.47
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 4,
+    "return_rate": 66.67,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Maleta Equipaje ABS+PC20in 24in 28in Materiales ABS+PC para la carcasa rígida, hacen que el equipaje sea más duradero, ligero y resistente a los impactos. Presenta un acabado texturizado para evitar arañazos, manteniendo las maletas bonitas.",
@@ -1817,19 +1682,19 @@
     "max_sale_price": 54.92,
     "buyer_count": 22,
     "sku_list": [
-      "Amarillo, 28 inch",
-      "Negro, 24 inch",
-      "Púrpura, 20 inch",
-      "Rosa claro, 20 inch",
-      "Púrpura, 28 inch",
+      "Amarillo, 24 inch",
       "Azul celeste, 24 inch",
-      "Blanco, 24 inch",
-      "Azul celeste, 20 inch",
-      "Rosa claro, 24 inch",
       "Azul celeste, 28 inch",
-      "Amarillo, 20 inch",
+      "Blanco, 24 inch",
+      "Púrpura, 20 inch",
       "Blanco, 28 inch",
-      "Amarillo, 24 inch"
+      "Rosa claro, 20 inch",
+      "Azul celeste, 20 inch",
+      "Amarillo, 28 inch",
+      "Púrpura, 28 inch",
+      "Amarillo, 20 inch",
+      "Rosa claro, 24 inch",
+      "Negro, 24 inch"
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1837,14 +1702,11 @@
     ],
     "first_sold_time": 1743117816,
     "last_sold_time": 1747331733,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 825.6
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 8,
+    "return_rate": 29.63,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Juego de 3 piezas de equipaje que incluye equipaje de 50,8 / 60,96 / 71,12 cm, Una opción de calidad: Juego de equipaje de material PP elegante, equipaje de mano que coincide con maleta con ruedas giratorias, maleta de viaje de moda",
@@ -1864,14 +1726,11 @@
     ],
     "first_sold_time": 1743286184,
     "last_sold_time": 1746629757,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 342.45
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 3,
+    "return_rate": 75.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  maletas PP  20in 24in 28in livianas y duraderas, juegos de maletas con ruedas giratorias, maletas de 20 pulgadas, 24 pulgadas y 28 pulgadas",
@@ -1884,14 +1743,14 @@
     "max_sale_price": 59.16,
     "buyer_count": 11,
     "sku_list": [
-      "Verde, 28 in ",
-      "Beige, 20 in ",
-      "Rojo, 24 in ",
-      "Purpura, 20 in ",
       "Beige, 24 in ",
-      "Purpura, 24 in ",
       "Rojo, 20 in ",
-      "Beige, 28 in "
+      "Beige, 20 in ",
+      "Purpura, 24 in ",
+      "Purpura, 20 in ",
+      "Verde, 28 in ",
+      "Beige, 28 in ",
+      "Rojo, 24 in "
     ],
     "shipping_provider_names": [
       "Correos",
@@ -1899,14 +1758,11 @@
     ],
     "first_sold_time": 1743344919,
     "last_sold_time": 1745478792,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 573.89
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 4,
+    "return_rate": 28.57,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  la  maletas 18inch  Puedes llevar  a todas las aerolíneas. Las ruedas son removibles,ABS expandibles, maleta duradera con doble rueda,  maleta giratoria con carcasa dura, ligera,",
@@ -1919,30 +1775,27 @@
     "max_sale_price": 28.79,
     "buyer_count": 24,
     "sku_list": [
-      "Rojo, 18 inch ",
-      "Púrpura, 20 inch",
       "Azul osculo, 18 inch ",
-      "Púrpura, 18 inch ",
-      "Amarillo, 18 inch ",
+      "Púrpura, 20 inch",
       "Oro rosa, 20 inch",
+      "Rojo, 18 inch ",
+      "Oro rosa, 18 inch ",
       "Rojo, 20 inch",
-      "Amarillo, 20 inch",
+      "Amarillo, 18 inch ",
       "Azul osculo, 20 inch",
-      "Oro rosa, 18 inch "
+      "Amarillo, 20 inch",
+      "Púrpura, 18 inch "
     ],
     "shipping_provider_names": [
       "CTT Express"
     ],
     "first_sold_time": 1743599486,
     "last_sold_time": 1745492630,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 692.18
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 5,
+    "return_rate": 14.29,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  Equipaje Maleta expandible PC+ABS  22in 26in 30in Materiales PC+ABS para la carcasa rígida, que hacen que el equipaje sea más duradero, ligero y resistente a los impactos.",
@@ -1955,30 +1808,27 @@
     "max_sale_price": 65.99,
     "buyer_count": 12,
     "sku_list": [
-      "Verde, 22 inch",
-      "Azul  light, 22 inch",
       "Blanco, 26 inch",
       "Negro, 30 inch",
-      "Blanco, 22 inch",
-      "Negro, 26 inch",
       "Azul  light, 26 inch",
       "Amarillo, 26 inch",
       "Amarillo, 22 inch",
-      "Verde, 30 inch"
+      "Verde, 30 inch",
+      "Negro, 26 inch",
+      "Verde, 22 inch",
+      "Azul  light, 22 inch",
+      "Blanco, 22 inch"
     ],
     "shipping_provider_names": [
       "CTT Express"
     ],
     "first_sold_time": 1743802042,
     "last_sold_time": 1747731104,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 424.61
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 7.14,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR Maleta 20 inch Cabina 55x37x23CM Ampliable ABS+PC Equipaje de Mano Trolley Rígido Ligero Maletas de Viaje con 4 Ruedas Dobles Giratorias 360º y Candado TSA,",
@@ -1991,25 +1841,22 @@
     "max_sale_price": 57.69,
     "buyer_count": 29,
     "sku_list": [
-      "Negro",
-      "Rosa",
       "Azul",
-      "Blanco",
-      "Verde"
+      "Rosa",
+      "Verde",
+      "Negro",
+      "Blanco"
     ],
     "shipping_provider_names": [
       "CTT Express"
     ],
     "first_sold_time": 1743888596,
     "last_sold_time": 1747597407,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 196.94
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 3.45,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR  maleta de mano de ABS,20in 24in 28in resistente a arañazos, resistente a impactos, Hermosa Maleta de Viaje, Maleta de Viaje de Negocios, maleta con ruedas giratorias, Maleta de Viaje Ligera, Maleta de Viaje de Moda",
@@ -2022,8 +1869,8 @@
     "max_sale_price": 42.67,
     "buyer_count": 2,
     "sku_list": [
-      "Rosa, 20 inch",
-      "Oro, 24 inch"
+      "Oro, 24 inch",
+      "Rosa, 20 inch"
     ],
     "shipping_provider_names": [
       "CTT Express"
@@ -2032,6 +1879,7 @@
     "last_sold_time": 1746110161,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 71.16
     },
@@ -2055,14 +1903,11 @@
     "shipping_provider_names": [],
     "first_sold_time": 1744458025,
     "last_sold_time": 1744458025,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 104.68
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR   maletas premium de 20/24/28 pulgadas,  rígidas ABS+PC, resistentes a arañazos e impactos, maletas de viaje ligeras con ruedas, maletas de viaje de moda, hermosas maletas de viaje, maletas de viaje para negocios",
@@ -2084,6 +1929,7 @@
     "last_sold_time": 1744625126,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 30.03
     },
@@ -2111,6 +1957,7 @@
     "last_sold_time": 1746386119,
     "return_count": 0,
     "return_rate": 0.0,
+    "is_returned": false,
     "profit_methods": {
       "pay-shipping-5%-cost": 108.77
     },
@@ -2134,14 +1981,11 @@
     "shipping_provider_names": [],
     "first_sold_time": 1747907339,
     "last_sold_time": 1747907339,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 36.18
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   },
   {
     "product_name": "S7 STAR 20/24/28in Maleta Rígida con Bolsillo Frontal, Equipaje Resistente 4 Ruedas Dobles Giratorias 360º, Maleta Ligera  PP con Cierre de Combinación, Maleta Cabina Business Viaje con Bolsillo para Laptop",
@@ -2159,13 +2003,10 @@
     "shipping_provider_names": [],
     "first_sold_time": 1748024138,
     "last_sold_time": 1748024138,
-    "return_count": 0,
-    "return_rate": 0.0,
-    "profit_methods": {
-      "pay-shipping-5%-cost": 67.63
-    },
-    "profit_explain": {
-      "pay-shipping-5%-cost": "毛利=实际付款（sale_price）-运费（original_shipping_fee/shipping_fee）-平台提点5%-货品成本（cost/product_cost/item_cost），本项为所有订单累计总和"
-    }
+    "return_count": 1,
+    "return_rate": 100.0,
+    "is_returned": true,
+    "profit_methods": {},
+    "profit_explain": {}
   }
 ]

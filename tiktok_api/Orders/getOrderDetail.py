@@ -1,6 +1,6 @@
 import json
 import requests
-from Utils.Utils import get_current_timestamp, generate_nonce, build_query_string
+from Tiktok_api.Models.Utils import get_current_timestamp, generate_nonce, build_query_string
 from django.conf import settings
 from pathlib import Path
 from Tiktok_api.Models.sign_utils import generate_sign

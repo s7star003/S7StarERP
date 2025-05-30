@@ -1,7 +1,7 @@
 {
-    "Shein": {
-      "AppKey": "13783147CC8028B36AA02F1F18DB3",
-      "AppSecret": "2832b9ab4ef88f3860a6cf25368f4a9b298112aa",
-      "RedirectUri": "https://prompt-pumped-kangaroo.ngrok-free.app/api/Shein/callback"
-    }
+  "Shein": {
+    "AppKey": "13783147CC8028B36AA02F1F18DB3",
+    "RedirectUri": "https://prompt-pumped-kangaroo.ngrok-free.app/api/Shein/callback",
+    "AppSecret": "7B332C1A118743F3ADBF4A3F11D7CAF5"
   }
+}
