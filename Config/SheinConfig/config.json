@@ -1,7 +1,0 @@
-{
-  "Shein": {
-    "AppKey": "******",
-    "RedirectUri": "https://prompt-pumped-kangaroo.ngrok-free.app/api/Shein/callback",
-    "AppSecret": "*******"
-  }
-}
