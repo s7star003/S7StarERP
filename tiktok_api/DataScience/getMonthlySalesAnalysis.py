@@ -9,17 +9,18 @@ from drf_yasg import openapi
     method='get',
     operation_summary="月度销量分析",
     operation_description="展示MonthlySalesAnalysis.json的内容，包含按月统计的销量、客单价、SKU信息等。",
-    responses={200: openapi.Response('返回月度销量分析数据')}
+    responses={200: openapi.Response('返回月度销量分析数据')},
+    tags=['TikTok']
 )
 @api_view(['GET'])
 def getMonthlySalesAnalysis(request):
     json_path = os.path.join(
         os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
-        'MultiplatformDataDashboardDataSource', 'Tiktok', 'MonthlySalesAnalysis.json'
+        'MultiplatformDataDashboardDataSource', 'TikTok', 'MonthlySalesAnalysis.json'
     )
     try:
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        return Response(data)
+        return Response({'code': 0, 'msg': 'success', 'data': data})
     except Exception as e:
-        return Response({'error': str(e)}, status=500) 
+        return Response({'code': 1, 'msg': 'error', 'error': str(e)}, status=500) 

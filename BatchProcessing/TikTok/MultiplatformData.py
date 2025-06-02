@@ -10,7 +10,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORDERS_FILE = os.path.join(PROJECT_ROOT, "Datas", "TiktokDatas", "tiktok_orders.json")
 PRICE_DETAIL_FILE = os.path.join(PROJECT_ROOT, "Datas", "TiktokDatas", "OrdersPriceDetail.json")
-OUTPUT_DIR = os.path.join(PROJECT_ROOT, "MultiplatformDataDashboardDataSource", "Tiktok")
+OUTPUT_DIR = os.path.join(PROJECT_ROOT, "MultiplatformDataDashboardDataSource", "TikTok")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # 读取数据

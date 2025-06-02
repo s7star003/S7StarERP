@@ -14,7 +14,7 @@ django.setup()
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 INPUT_FILE = os.path.join(PROJECT_ROOT, "Datas", "TiktokDatas", "tiktok_orders.json")
-OUTPUT_FILE = os.path.join(PROJECT_ROOT, "MultiplatformDataDashboardDataSource", "Tiktok", "OrderAnalysis.json")
+OUTPUT_FILE = os.path.join(PROJECT_ROOT, "MultiplatformDataDashboardDataSource", "TikTok", "OrderAnalysis.json")
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
 # 需要统计的字段

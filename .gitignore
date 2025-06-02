@@ -1,0 +1,8 @@
+Config/ 
+
+# 忽略平台数据和分析结果目录下的所有内容
+Datas/
+MultiplatformDataDashboardDataSource/ 
+
+# 忽略所有JSON文件
+*.json 

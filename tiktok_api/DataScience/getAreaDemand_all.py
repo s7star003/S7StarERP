@@ -8,17 +8,18 @@ from drf_yasg import openapi
 @swagger_auto_schema(
     method='get',
     operation_description="获取全部区域需求分析数据",
-    responses={200: openapi.Response('返回全部区域需求分析数据')}
+    responses={200: openapi.Response('返回全部区域需求分析数据')},
+    tags=['TikTok']
 )
 @api_view(['GET'])
 def get_area_demand_all(request):
     json_path = os.path.join(
         os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
-        'MultiplatformDataDashboardDataSource', 'Tiktok', 'AreaDemand_all.json'
+        'MultiplatformDataDashboardDataSource', 'TikTok', 'AreaDemand_all.json'
     )
     try:
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        return Response(data)
+        return Response({'code': 0, 'msg': 'success', 'data': data})
     except Exception as e:
-        return Response({'error': str(e)}, status=500) 
+        return Response({'code': 1, 'msg': 'error', 'error': str(e)}, status=500) 

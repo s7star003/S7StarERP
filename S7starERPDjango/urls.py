@@ -8,4 +8,6 @@ urlpatterns = [
     path('api/TikTok/', include('Tiktok_api.urls')),
     path('api/Shein/', include('Shein_api.urls')),
     path('api/Miravia/', include('Miravia_api.urls')),
+    path('api/Amazon/', include('Amazon_api.urls')),
+    path('api/Multiplatform/', include('MultiplatformDataDashboardDataSource.urls')),
 ]

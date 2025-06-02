@@ -8,17 +8,18 @@ from drf_yasg import openapi
 @swagger_auto_schema(
     method='get',
     operation_description="获取复购率数据",
-    responses={200: openapi.Response('返回复购率数据')}
+    responses={200: openapi.Response('返回复购率数据')},
+    tags=['TikTok']
 )
 @api_view(['GET'])
 def get_repurchase_rate(request):
     json_path = os.path.join(
         os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
-        'MultiplatformDataDashboardDataSource', 'Tiktok', 'RepurchaseRate.json'
+        'MultiplatformDataDashboardDataSource', 'TikTok', 'RepurchaseRate.json'
     )
     try:
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        return Response(data)
+        return Response({'code': 0, 'msg': 'success', 'data': data})
     except Exception as e:
-        return Response({'error': str(e)}, status=500) 
+        return Response({'code': 1, 'msg': 'error', 'error': str(e)}, status=500) 
